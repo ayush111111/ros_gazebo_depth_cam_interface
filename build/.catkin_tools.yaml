@@ -1,0 +1,6 @@
+devel_space: /home/ayushlokare/catkin_ws/src/detect_pump/devel
+install: false
+install_space: /home/ayushlokare/catkin_ws/src/detect_pump/install
+profile: default
+source_space: /home/ayushlokare/catkin_ws/src/detect_pump/src
+workspace: /home/ayushlokare/catkin_ws/src/detect_pump

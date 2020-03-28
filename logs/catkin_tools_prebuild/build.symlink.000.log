@@ -1,0 +1,12 @@
+Symlinking /home/ayushlokare/catkin_ws/src/detect_pump/devel/./local_setup.bash
+Symlinking /home/ayushlokare/catkin_ws/src/detect_pump/devel/./_setup_util.py
+Symlinking /home/ayushlokare/catkin_ws/src/detect_pump/devel/./setup.zsh
+Symlinking /home/ayushlokare/catkin_ws/src/detect_pump/devel/./setup.bash
+Symlinking /home/ayushlokare/catkin_ws/src/detect_pump/devel/./cmake.lock
+Symlinking /home/ayushlokare/catkin_ws/src/detect_pump/devel/./local_setup.zsh
+Symlinking /home/ayushlokare/catkin_ws/src/detect_pump/devel/./env.sh
+Symlinking /home/ayushlokare/catkin_ws/src/detect_pump/devel/./setup.sh
+Symlinking /home/ayushlokare/catkin_ws/src/detect_pump/devel/./local_setup.sh
+Symlinking /home/ayushlokare/catkin_ws/src/detect_pump/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/ayushlokare/catkin_ws/src/detect_pump/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/ayushlokare/catkin_ws/src/detect_pump/devel/lib/pkgconfig/catkin_tools_prebuild.pc

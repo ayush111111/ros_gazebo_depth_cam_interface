@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ayushlokare/catkin_ws/src/detect_pump/install/setup.sh
