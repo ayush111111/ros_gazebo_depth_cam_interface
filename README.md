@@ -12,4 +12,4 @@ Kinect depth data extracted (/depth/image_raw topic)
 
 cv_bridge converts ROS image to OpenCV processable data
 
-
+Output screenshot uploaded with files
